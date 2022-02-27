@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>They must needs go, that the devil drives: or, a whip for traytors: comprising, the charge, and articles of impeachment, against all those commissioners, treasurers, exoize-men, clerks, overseers, and surevyors, who have collected great sums of money, cheated the common-wealth of many thousands, oppressed the poor, favour'd the rich; and heap'd up chests of gold and silver for themselves. Also, a declaration to the people, for the taking off all taxes and assesments; and gallant propositions for the increase of trading, relieving the poor, and seting the bondmen free (throughout city and countrey) from rich and cunning assessors, and crafty catch-poles and collectors. Sent in a letter to the Parliament of England; and published by special authority.</title>
+            <author>Chambers, Peter, fl. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78556</idno>
+            <idno type="STC">Wing C1918</idno>
+            <idno type="STC">Thomason E656_7</idno>
+            <idno type="STC">ESTC R206601</idno>
+            <idno type="EEBO-CITATION">99865720</idno>
+            <idno type="PROQUEST">99865720</idno>
+            <idno type="VID">166081</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78556)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166081)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E656[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>They must needs go, that the devil drives: or, a whip for traytors: comprising, the charge, and articles of impeachment, against all those commissioners, treasurers, exoize-men, clerks, overseers, and surevyors, who have collected great sums of money, cheated the common-wealth of many thousands, oppressed the poor, favour'd the rich; and heap'd up chests of gold and silver for themselves. Also, a declaration to the people, for the taking off all taxes and assesments; and gallant propositions for the increase of trading, relieving the poor, and seting the bondmen free (throughout city and countrey) from rich and cunning assessors, and crafty catch-poles and collectors. Sent in a letter to the Parliament of England; and published by special authority.</title>
+                  <author>Chambers, Peter, fl. 1652.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on page 5: P. Chambers.</note>
+                  <note>Annotation on Thomason copy: "March 11th 1651"; also the last number of the imprint date has been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Appropriations and expenditures --  Early works to 1800.</term>
+               <term>England and Wales --  Officials and employees --  Early works to 1800.</term>
+               <term>Taxation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166081:1" rendition="simple:additions"/>
+            <p>They muſt needs go, that the Devil drives: OR, A WHIP FOR TRAYTORS: Compriſing, The Charge, and Articles of Impeachment, againſt all thoſe Commiſſioners, Treaſurers, Exoize-men, Clerks, Overſeers, and Surveyors, who have collected great Sums of Money, cheated the Common-wealth of many Thouſands, op<g ref="char:EOLhyphen"/>preſſed the poor, favour'd the Rich; and heap'd up Cheſts of Gold and Silver for themſelves.</p>
+            <p>Alſo, a Declaration to the People, for the taking off all Taxes and Aſſeſments; and gallant <hi>Propoſitions</hi> for the increaſe of Trading, relieving the poor, and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eting the Bondmen free (throughout City and Countrey) from rich and cunning Aſſeſſors, and crafty Catch-poles and Collectors.</p>
+            <p>
+               <hi>Sent in a Letter to the Parliament of</hi> England; <hi>and publiſhed <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſpecial Authority.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. Hor<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166081:2"/>
+            <pb n="3" facs="tcp:166081:2"/>
+            <head>They muſt needs go, whom the Devil drives: <hi>OR,</hi> Articles of Impeachment againſt many hundred of thoſe Committee-men, Treaſurers, and others, who have cheated the Common-wealth of many Thouſands of pounds.</head>
+            <div type="part">
+               <head>Sent in a Letter to the Parliament of <hi>England.</hi>
+               </head>
+               <opener>
+                  <salute>Ye choice men of <hi>England,</hi>
+                  </salute>
+               </opener>
+               <p>I Cannot but honour, whom the Lord hath been pleaſed to honour. I am commanded to love you: give me then leave to be jealous of you. Love lyeth not in flattery; for the Law ſaith, <hi>Thou ſhalt not hate thy brother, but freely tell him of his faults.</hi> Ye are many, and there was one Judas a<g ref="char:EOLhyphen"/>mongſt the Apoſtles. I know him not; but he that beareth the bag will certainly betray you. He that perſwadeth you to ſell that precious oyntment, which coſt ſo much bloud, whoſe Odor might perfume all the Nation with the ſweet ſavor of charity, doth he do it that he loveth you, or becauſ he hath the bag? Such you have declared have been a<g ref="char:EOLhyphen"/>mongſt you. If any yet remain, give him this fop, and diſco<g ref="char:EOLhyphen"/>ver him. Note the man that dippeth with you in the Diſh, whoſe lips are ſtill ready for the guilty ſop of new Aſſeſ<g ref="char:EOLhyphen"/>ments,
+<pb n="4" facs="tcp:166081:3"/>or ſaue't with Birdlime G<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lly of Delay, kiſſe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h you with the ſeeming <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enderneſs of Bull-begger ca<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and blind<g ref="char:EOLhyphen"/>eth your ways w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th a prudential Forehead of politick di<g ref="char:EOLhyphen"/>verſion. <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>feſs you are all above me, and ſee over <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; but I am under you, and ſee under you: yea, I ſee you are ſup<g ref="char:EOLhyphen"/>planted and blown up, if you prevent it not. Taxes will eat up the graſs under your feet: How came th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Son of <hi>So<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mon</hi> to loſe his Kingdom? None more fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d of a King then the <hi>Engliſh;</hi> yet they departed from him to eaſe their pur<g ref="char:EOLhyphen"/>ſes, and their conſciences. If they forſook their King (I ſpeak it to ſome of your Houſe in the beginning of this Seſſion) will they not forſake their fellow ſubjects for the ſame cauſes? Few honeſt men will ingage to be Taxers, and knaves will tax none (willingly) but your friends: nor will Collectors gather from others, unleſs compel'd: nor Clerks diſcharge any but your bribing Enemies. So you ſtill ſpur the free horſe, and neceſſitate your friends againſt you. Will your Enemies then be for you? I write this feel<g ref="char:EOLhyphen"/>ingly, as not onely cloy'd with Taxes, but overcome with the infinite abuſes in them. Now when no more Taxes are to be had, muſt not the ſouldier fall upon his maſters? Be pleaſed to remember the firſt occaſions for money. It is high time you ſhould find a remedy; and this it is, Keep whole the publike ſtock; provide for the poor, &amp; they will provide for you: deſtroy the poor, and they will deſtroy you: And if you provide not for the poor, they will pro<g ref="char:EOLhyphen"/>vide for themſelves.</p>
+               <p>Though you would pardon all, and take the debts upon you, proclaiming (with the Apoſtles) <hi>Let him that ſtole, ſteal no more.</hi> Set but 200000 poor at work, and if they clear but 20 <hi>l.</hi> a head, (as that's the leaſt the meaneſt Hine can do that payes his Rent) The year will bring about 4000000<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. to the publique Treaſury, beſide all other profits herein men<g ref="char:EOLhyphen"/>tioned.</p>
+               <pb n="5" facs="tcp:166081:3"/>
+               <p>Haſten this work of God, and eſtabliſh the Honor of your memories in the hearts of all men. They are not weary of you, but of your Taxes and Delayes. And with this joyful Work proclaim a Jubilee of Conſcience, but let it not uſh<g ref="char:EOLhyphen"/>er in a babel of ſin.</p>
+               <p>How much bloud and expences had been ſaved, had ho<g ref="char:EOLhyphen"/>neſt men diſtinguiſht between Liberty of Sin, and Liberty of Conſcience, between puniſhment of ſin, and puniſhment of Conſcience? Tie up ſin, leave Conſcience free. Let no man here preſume above his ſenſes, God onely judgeth the heart. He that breaketh the Law, is judged by the Law, and there the ſenſes are ſufficient. He that deſpiſeth the Goſpel is judged by the Goſpel; but that's diſcerned by the ſpi<g ref="char:EOLhyphen"/>rit: God loves not linſey-wolſey. He appoints no Goſpel cenſures for legal Tranſgreſſions, nor legal cenſures for Goſpel ſins: The Magiſtrate for the Law, the Church for the Goſpel.</p>
+               <p>Herein if we are guided by the ſupream Authority and Power of all the World: and the fundamental Laws of Na<g ref="char:EOLhyphen"/>ture written to <hi>Moſes</hi> by <hi>God,</hi> we may all agree concerning the Authority, Power, and Laws of <hi>England,</hi> unleſſe we muſt ever continue <hi>pen<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>us toto diviſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, ab orbe,</hi> out of the World. <hi>Verbum ſapien<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i.</hi> I am not tedious, unleſſe diſplea<g ref="char:EOLhyphen"/>ſing; And can there be diſpleaſure in love? the Chriſtian love of him that is,</p>
+               <closer>
+                  <signed>Your Honours In all humble Chriſtian Duty, P. Chambers.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:166081:4"/>
+               <head>A Declaration to the People.</head>
+               <p>WHereas the enemies of the republick in Parliament, and elſe<g ref="char:EOLhyphen"/>where, ſeeing the cure miſtaken, preſt forward the miſtake (to bleed inſtead of purging) and were ever haſtning the Parlia<g ref="char:EOLhyphen"/>ment to new neceſſities, to invent new Engagements and ſo new Loanes; wherein, they confederated with the wary Money-maſters, and they with their ſubtle Crafts-maſters, till they were incorpo<g ref="char:EOLhyphen"/>rated with their own common guilt. And they that were but half wicked at firſt, were inſenſibly drawn on, to ſhare with each other in all adventures, having the temptations of gold before them, and the Idoll-covetouſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neſs within them. <hi>They muſt needs go whom the Devil drives.</hi>
+               </p>
+               <p>Theſe, having gotten the precious Jewel of <hi>Publick Faith</hi> in pawn into their cuſtody, by being truſted with the ſtock that ſhould diſ<g ref="char:EOLhyphen"/>charge it; Undervalue it at what rates they pleaſe, ſo as to be ſome<g ref="char:EOLhyphen"/>times worth half, ſometimes worth but a quarter, and even at that rate ſwallow up the Free-Loanes of the firſt lenders; who are for<g ref="char:EOLhyphen"/>ced to remember, that, <hi>half a loaf is better then no bread.</hi> Sometimes making it worth nothing at all: and therefore cry to their confe<g ref="char:EOLhyphen"/>derates in Parliament for new pawns; which rather then they ſhall be wanting, they themſelves will occaſion, by withholding the due from the Souldier, maintenance from the poor, ſetting of many in<g ref="char:EOLhyphen"/>ventions on work for the decay of Trade, cauſing diviſions in the Houſe, the City, and the whole Kingdom; raiſing up parties, coun<g ref="char:EOLhyphen"/>tenancing incendiaries, withholding all ſuccour from <hi>Ireland,</hi> pro<g ref="char:EOLhyphen"/>voking and inviting forraign Nations. Yea, with-drawing all com<g ref="char:EOLhyphen"/>fort from Sea-men, and evermore diſtaſting what is laſt in deſign, or action. That thus they might fiſh in troubled waters, and yet keep fair with all parties.</p>
+               <p>It were well therefore, if our preſent Patriots, who have born the heat of the day, and are but ſcarce yet arrived to the diſcovery of theſe inviſible myſteries of iniquity, would in time keep off from theſe Rocks, leaſt when they are in the Gulf, they either ſuffer a wrack, or tide with the torrent without power of recovering the Rudder.</p>
+               <p>Obj. <hi>But many of the Parliament and Army, who have deſerved nobly of the Common-wealth, have received great ſums, of which they can give no accompt.</hi>
+               </p>
+               <pb n="5" facs="tcp:166081:4"/>
+               <p>
+                  <hi>Anſw.</hi> 1. God forbid but the Members of Parl. and Army, who have deſerved well, may have whatſoever they can demand, and whatſoever is fitting for a gratuity over and above. No Common-wealth was ever a baſe pay-maſter to their publike Servants.</p>
+               <p n="2">2. Great ſums were never ſo inconſiderable to any, as to be ei<g ref="char:EOLhyphen"/>ther received or parted from, without notice of accompt.</p>
+               <p n="3">3. This is certainly the deſire alſo of all the honeſt Members of Pa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. and Army, that by the clearing hereof (according to their Declarations) they might be juſtified in their dealings both con<g ref="char:EOLhyphen"/>cerning themſelves, and towards others whom they have accuſed for this very fault. For if they have their due (as none can grudge it to ſo great deſert) it can be no contemptible ſum. And then what needs a rich man be a Theefe? Yet it is moſt certain, that ſome muſt be in fault, as hath been declared by the Army, or elſe the pub<g ref="char:EOLhyphen"/>lick could never have bin ſo indebted as they are for the Army only. And for a few inconſiderable gratuities to others.</p>
+               <p>All men expected eaſe by the Parl: and many in Parl: did as cor<g ref="char:EOLhyphen"/>dially intend it. But what? The <hi>Monkey</hi> put in the <hi>Cats Claw,</hi> and the Trade which was formerly invaded, was now altogether prohi<g ref="char:EOLhyphen"/>bited, Taxes multiplyed, and encreaſed from the Finger to the Loynes. Monies which then were rob'd from the <hi>Mint,</hi> were now raviſht from the private Coffers. And all the burthens, which by both parties in Parl. were packt up, and which the honeſt party did ſimply intend for their enemies, were cunningly caſt out by the other parties Agents on themſelves or their friends.</p>
+               <p>Since that time, Parliaments have been vomitted, purged and re<g ref="char:EOLhyphen"/>purged. Armies have been formed, modellized and refined. In all which variations (as the ſick turn for eaſe) men rolled and relied on every change, till now the Fabrick being wholly altered, the peeviſh conſumed Nation can no longer endure with patience, to wait the benefit of Long-ro'b Counſels: Hold, here we tack about from this Atlantick Ocean to our narrow Seas, where the <hi>Marriners</hi> turn <hi>Pyrats</hi> abroad, becauſe they could not live honeſtly, nor com<g ref="char:EOLhyphen"/>fortably at home, nor having as yet found the benigne influence of amendment by change of Government. Let this new Government indulge them a new pardon, take off, or ſtint all Taxes, provide them pay, encourage their <hi>Merchants</hi> in Trade, and no doubt they will know on which ſide their bread is buttered.</p>
+               <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:166081:5"/>
+               <p>Queſt. <hi>But how may this be done?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> It is the glory of the Parliament, to be able to pardon: which they may either ſweeten with Amneſtie of the faults upon a ſpeedy return, promiſe of amendment, &amp; ſecurity of future fidelity; or make the contempt of it ter<g ref="char:EOLhyphen"/>rible, by poſtſcript on, and giving up their lives to the next violence they meet with, and ſuch further prohibition of all correſpondencies with them, &amp;c. as may be adviſed.</p>
+               <p>
+                  <hi>Qu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry.</hi> If all Delinquents Lands muſt be ſold: How ſhall the money be diſpoſed off? To greaſe the fat Sow: Muſt it alwayes be <hi>Habenti dabitur, &amp; non habent<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cipietu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>?</hi> Shall the Rich be paid, and the Poor Taxed? When ſhall <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Mountains be made low, and the Vallies exalted? The poor is a Creditor as well as the rich. If any precedency, Is there not more reaſon it ſhould be to the Souldier, &amp; poor Handi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raftſ-man, who freely have adventured both life and fortunes, then to the Rich, who (through the poor mans hazard) have remained in ſafety and plenty. 2 The Rich may ſtay, the Poor cannot. 3 Many Poor are paid at the rate of one rich man. 4 The very occaſion of increa<g ref="char:EOLhyphen"/>ſing the poor, is the great increaſe of riches to the Rich, by their becoming ſo rich, as to be able to live, without em<g ref="char:EOLhyphen"/>ploying of the poor as formerly.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
